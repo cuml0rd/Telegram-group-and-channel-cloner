@@ -26,4 +26,5 @@ SOURCE and DESTINATION - can be get by forwarding any message from those channel
 
 COOL_DOWN - interval in seconds between sending a message to destination group
 
+Note that Telegram account what are you working with should be in both groups/channels
 
