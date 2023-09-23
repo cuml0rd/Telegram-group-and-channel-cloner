@@ -1,0 +1,6 @@
+API_ID = ""
+API_HASH = ""
+PHONE_NUMBER = "session_name"
+SOURCE =
+DESTINATION =
+COOL_DOWN = 4
