@@ -6,11 +6,13 @@ A script to clone Telegram chats/groups wrote on Telethon. Albums supported.
 While installing check the Add Python to PATH box
 2. Open cmd (WIN+R -> cmd -> enter), type
 ```sh
-pip install Telethon```
+pip install Telethon
+```
 3. Download and unpack archive
 4. Go to folder of unpacked archive in cmd
 ```sh
-cd path-to-files```
+cd path-to-files
+```
 5. run python main.py
 
 
